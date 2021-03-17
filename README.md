@@ -1,16 +1,14 @@
 ### Hi there 👋
+My name is Federico, but you can call me Fede.
 
-<!--
-**Fedefreez/Fedefreez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my contributions are private.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedefreez)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a young software developer, interested in learning new languages and network designing.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedefreez&show_icons=true&theme=vision-friendly-dark)
+
+🤔 I’m looking for help with Youtube APIs.
+
+You can contact me in any way 👍
